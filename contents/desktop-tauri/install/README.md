@@ -59,6 +59,14 @@ pnpm -v
 
 ## インストール
 
+Tauri をインストールしておいてください。（説明略）  
+
+```shell
+tauri --version
+        # 例：
+        # tauri-cli 2.0.4
+```
+
 以下の２つをインストールする方法を説明します。  
 
 1. フロントエンドの TypeScript 環境
@@ -78,7 +86,10 @@ pnpm install
 #pnpm install --force
 ```
 
-(2)  
+(2)  Rust のインストール
+
+📖[Rust](https://rust-lang.org/ja/)  
+VSCodeを再起動してください。  
 
 ```shell
 # バックエンドで Rust も使うので、これも。
