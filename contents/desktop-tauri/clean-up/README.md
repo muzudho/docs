@@ -1,11 +1,24 @@
 # クリーンアップ方法
 
+数 GB の容量を削減できることも。  
+
 
 ## キャッシュ・クリアー
 
+（パワーシェルではなく）コマンドプロンプトを使う。  
+
 ```shell
+# フロントエンド
 pnpm store prune
-# （pnpm ではなく npm が悪さをしてるなら） npm cache clean --force
+
+# （pnpm ではなく npm が悪さをしてるなら）
+#npm cache clean --force
+```
+
+```shell
+# バックエンド
+cd src-tauri
+cargo clean
 ```
 
 （ソースから生成できるので）削除してもいいフォルダーとファイル：  
