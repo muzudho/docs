@@ -32,4 +32,13 @@ cargo clean
 │   ├─ 📁 target 削除
 │   └─ 📄 Cargo.lock 削除
 └─ 📄 pnpm-lock.yaml 削除
+
+
+# Nuxt の場合：
+
+📁 /
+├─ 📁 .nuxt 削除
+├─ 📁 .output 削除
+├─ 📁 node_modules 削除
+└─ 📄 pnpm-lock.yaml 削除
 ```
