@@ -73,6 +73,9 @@ pnpm install
 
 # それでダメならこれ
 #pnpm install --shamefully-hoist
+
+# （依存関係を満たしていなくても、強制的に構築する場合）
+#pnpm install --force
 ```
 
 (2)  
