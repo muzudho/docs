@@ -3,7 +3,18 @@
 
 ## 目次
 
+### 2月
+
+* 📅 [確定申告の実践](https://github.com/muzudho/blue-return-practice)
+
+
+### 11月
+
 * 📆 [UEC杯コンピュータ囲碁大会について](./contents/UEC杯コンピュータ囲碁大会について/README.md)
+
+
+### 不定期
+
 * 📁 [デスクトップアプリ　＞　Tauri](./contents/desktop-tauri/README.md)
 * Visual Studio Code
     * [ターミナルのデフォルトをPowerShellからCommandPromptへ変更](./contents/visual-studio-code/settings.md#ターミナルのデフォルトをPowerShellからCommandPromptへ変更)
