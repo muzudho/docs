@@ -15,6 +15,8 @@
 
 ### 不定期
 
+* 📁 C#
+    * [コメント・テンプレート](./contents/c-sharp/comment-template/README.md)
 * 📁 [デスクトップアプリ　＞　Tauri](./contents/desktop-tauri/README.md)
 * Visual Studio Code
     * [ターミナルのデフォルトをPowerShellからCommandPromptへ変更](./contents/visual-studio-code/settings.md#ターミナルのデフォルトをPowerShellからCommandPromptへ変更)
